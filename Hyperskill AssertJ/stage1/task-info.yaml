@@ -1,0 +1,8 @@
+type: edu
+files:
+- name: src/hyperskillassertj/Main.java
+  visible: false
+- name: test/HyperskillAssertJ.java
+  visible: false
+- name: src/hyperskillassertj/CompareList.java
+  visible: true
